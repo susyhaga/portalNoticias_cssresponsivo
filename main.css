@@ -124,7 +124,7 @@ aside .noticia{
     .submenu{
         display:block;
         position: relative; 
-        widows: 100px;
+        width: 100px;
     }
     .submenu li{
         display: block;
